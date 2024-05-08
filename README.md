@@ -1,29 +1,12 @@
-# 8-calculadora_vue
+<p>
+  <img src="./github/unknown_2024.05.08-16.42-ezgif.com-video-to-gif-converter.gif">
+</p>
 
-This template should help get you started developing with Vue 3 in Vite.
+# Projeto Operações Aritméticas com VueJS 📝
+Projeto Feito como desafio (ou tarefa) do curso da Ebac(Engenheiro Front End).
+Projeto focado em conseguir fazer as renderizações em tempo real com os resultados e separar o código em componentes.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+# Tecnologias - 👨‍💻
+- VueJS
+- Bootstrap
+- Git
